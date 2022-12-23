@@ -1,7 +1,7 @@
 import socket
 
 
-ip = input("Digite o endereço IP")
+ip = input("Digite o endereço IP / URL: ")
 ports = range(63535)
 
 for port in ports:
